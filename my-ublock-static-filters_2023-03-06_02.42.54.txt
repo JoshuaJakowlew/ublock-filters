@@ -1,0 +1,92 @@
+! 2022-03-23 https://pastebin.com
+||pastebin.com/themes/pastebin/img/no_war_ukraine.jpeg$image
+||pastebin.com/themes/pastebin/img/no_war_ukraine.jpeg$image
+
+! 2023-01-10 https://habr.com
+habr.com##.tm-block__body_variant-equal-small.tm-block__body
+
+! 2023-01-15 https://dzen.ru
+dzen.ru##.eDYltylW95oNQD8VmzH0_platform_direct.eDYltylW95oNQD8VmzH0_color_white.eDYltylW95oNQD8VmzH0_position_right.eDYltylW95oNQD8VmzH0 > .eDYltylW95oNQD8VmzH0__container > div
+dzen.ru###e25ef4419 > div
+dzen.ru##.j51652dcf
+dzen.ru##.t78ca9b93.fb59e2c20.b5f87b9b.tcdf4b3ce
+
+
+! 2023-02-24 https://www.freecodecamp.org
+www.freecodecamp.org##.banner
+
+! 2023-02-24 https://vk.com
+vk.com##.CatalogSection--header_section.CatalogSection
+
+! 2023-02-24 https://habr.com
+habr.com##.tm-block_spacing-around.tm-stories-block.tm-block
+
+! 2023-02-24 https://duckduckgo.com
+duckduckgo.com##.js-header-aside.header--aside
+duckduckgo.com##.footer
+duckduckgo.com##.js-serp-bottom-right.serp__bottom-right
+
+! 2023-02-24 https://vk.com
+vk.com##._im_create_call.im-page--dialogs-header-control_call.im-page--dialogs-header-control
+vk.com##._im_dialog_call_action_wrapper.im-page--header-menu-button.im-page--header-call
+
+! 2023-02-24 https://www.youtube.com
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+www.youtube.com###copyright
+
+! 2023-02-24 https://www.w3schools.com
+www.w3schools.com##.m12.l2.w3-col
+
+! 2023-02-24 https://www.youtube.com
+www.youtube.com###voice-search-button
+www.youtube.com##.style-default.ytd-masthead.style-scope
+www.youtube.com##ytd-mini-guide-entry-renderer.ytd-mini-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+
+! 2023-02-26 https://www.wolframalpha.com
+www.wolframalpha.com##._1J9O._1tmx.jbaWzw.bpDwEs.sc-hLBbgP.sc-dkrFOg._1OQ2._3baZ._1w_c
+www.wolframalpha.com##._1vMF._3OUL._o0nf
+
+! 2023-02-27 https://coverr.co
+coverr.co##.ng-trigger-widgetOpenClose.ng-trigger.ng-tns-c79-0.cov-section-light.support-ukraine-widget
+coverr.co##.ng-star-inserted.ng-tns-c79-0.support-ukraine
+coverr.co##shutterstock-grid.ng-star-inserted.shutterstock-grid
+coverr.co##.category-header
+coverr.co##coverr-grid.ng-star-inserted.last-of-group > .container > .ng-star-inserted.coverr-grid-header
+
+! 2023-02-28 https://openvpn.net
+openvpn.net##.is-active.ovpn__floating-cta-cloud.ovpn__floating-cta
+
+! 2023-02-28 https://pastebin.com
+pastebin.com##.popup-container
+
+! 2023-02-28 https://en.cppreference.com
+en.cppreference.com###cpp-head-second-base
+
+! 2023-03-02 https://www.kaggle.com
+www.kaggle.com##.haRgZf.sc-jPgogF
+
+! 2023-03-05 https://godbolt.org
+godbolt.org##.community-advert.mr-auto.navbar-center.navbar-nav
+
+! 2023-03-05 https://stackoverflow.com
+stackoverflow.com##.js-sticky-leftnav.left-sidebar--sticky-container
+stackoverflow.com##.mb16.s-anchors__grayscale.s-anchors.s-sidebarwidget__yellow.s-sidebarwidget
+stackoverflow.com##.s-navigation
+
+! 2023-03-05 https://habr.com
+habr.com##.tm-company-widgets
+habr.com##.tm-header
+
+! 2023-03-05 https://img.ly
+img.ly##.is--for-desktop.navbarv2_buttons
+
+! 2023-03-05 https://www.youtube.com
+www.youtube.com##.ytp-gradient-bottom
+www.youtube.com##.ytp-gradient-top
+
